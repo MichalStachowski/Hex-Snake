@@ -10,3 +10,6 @@ the game ends. The same happens when snake leave the board.
 To move the snake we use "qweasd" keys loaded from standard input. (Directions: Q = upper left, W = upper, E = upper right, A = lower left, S = lower, D = lower right)
   
 Two players participate in the game. The first player plays his game, and then it is the turn of the second player. On the end score of each player is compare and the winner is selected
+  
+[Video example](https://youtu.be/DjWKR3HMYQ4)
+  
