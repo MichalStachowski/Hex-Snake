@@ -10,3 +10,10 @@ Used colors :
 - white as default
 
 The winner is player who score 10 points first. If player make illegal move, then opponent is declared the winner.
+
+##### Example videos:
+- [Sample gameplay](https://youtu.be/ObHu2G1p-lc)
+- [Set new game](https://youtu.be/KeQRyPDkdPA)
+- [Illegal Move 1](https://youtu.be/fHeLqrNwbKo)
+- [Illegal Move 2](https://youtu.be/boScDifUY20)
+- [Illegal Move 3](https://youtu.be/V0eqePLtjJk)
