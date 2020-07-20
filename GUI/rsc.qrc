@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="mojqrc">
+    <file>sn_img.jpg</file>
+  </qresource>
+</RCC>
